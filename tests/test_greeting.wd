@@ -1,0 +1,2 @@
+from greeting import greet
+assert(greet("wood") == "hello, wood")

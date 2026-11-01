@@ -1,0 +1,6 @@
+# A tiny public library used to verify `wood add` against real GitHub.
+fn greet(name: str) -> str:
+    return _salute()+", "+name
+
+fn _salute() -> str:
+    return "hello"
